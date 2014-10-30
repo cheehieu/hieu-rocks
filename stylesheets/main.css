@@ -9,7 +9,7 @@ p 				{font: none 13px Helvetica, Sans-Serif;}
 
 .header				{margin: 10px auto 0px; width: 800px; background-color: #000; border-top: 5px solid white; border-right: 5px solid black; border-bottom: 5px solid white; border-left: 5px solid black;}
 #slogan				{text-align: center; color: #C80; font-weight: bold; font-style: italic; font-size: 13px;}
-#tagline			{text-align: center; color: #C80; font-weight: bold; font-size: 110px; font-family: fantasy;}
+#tagline			{text-align: center; color: #C40; font-weight: bold; font-size: 110px; font-family: fantasy;}
 .navBar				{background-color: #000; color: #777; width: 800px; border-top: 1px solid white; text-align: center; margin: auto;}
 .navBar ul			{margin: 8px auto;}
 .navBar li			{list-style-type: none; display: inline; font-weight: bold; padding-left: 10px; padding-right: 10px;}
